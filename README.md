@@ -12,9 +12,9 @@ Thanks to [@metaodi](https://github.com/metaodi/) for providing the [API](https:
 
 | Name | Type | Requirement | Description
 | ---- | ---- | ------- | -----------
-| platform | string | **Required** | zurich_erz
 | zip | integer | **Required** | The zip code for the collection
 | tour | string | **Optional** | Label for the tour if there's more than one waste collection tour for that zip code
+| name | string | **Optional** | zurich_erz
 | cardboard | boolean | **Optional** | Shows the next cardboard collection date (default: false)
 | cargotram | boolean | **Optional** | Shows the next cargotram date (default: false)
 | etram | boolean | **Optional** | Shows the next etram date (default: false)
