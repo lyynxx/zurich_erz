@@ -1,7 +1,9 @@
 # zurich_erz
 
 This sensor custom component for HomeAssistant shows the next waste/recycling goods collection dates for Zürich, Switzerland.
+
 The data is provided by the open data portal of City of Zurich: [https://data.stadt-zuerich.ch/](https://data.stadt-zuerich.ch/)
+
 For details about the API, refer to: [http://openerz.metaodi.ch/documentation](http://openerz.metaodi.ch/documentation)
 
 Thanks to [@metaodi](https://github.com/metaodi/) for providing the [API](https://github.com/metaodi/openerz).
