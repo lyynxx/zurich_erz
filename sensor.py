@@ -19,7 +19,7 @@ import homeassistant.helpers.config_validation as cv
 
 _LOGGER = logging.getLogger(__name__)
 
-DEFAULT_NAME = 'Zurich ERZ Sensor'
+DEFAULT_NAME = 'zurich erz'
 DEFAULT_FORCE_UPDATE = False
 DEFAULT_TIMEOUT = 10
 
